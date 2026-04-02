@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "灯火",
   "base_artist": "DUSTCELL",
-  "createdAt": "2026-02-08T05:57:33.485249Z",
+  "createdAt": "2026-04-02T06:49:15.792774Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,24 @@
       "artist": "DUSTCELL",
       "has_synced": false,
       "path": "select/pl_01_灯火_DUSTCELL.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "灯火",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/localdb_01_灯火_DUSTCELL.txt",
+      "repo_name": "JJuHoFVvR4Q"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "灯火",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/localdb_02_灯火_DUSTCELL.txt",
+      "repo_name": "iG1AOY9QjHw"
     }
   ]
 }
